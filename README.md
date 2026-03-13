@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Melissa, a final-year Systems Engineering student based in Bogotá, Colombia.
+I'm Melissa, a final-year Systems and Computer Engineering student based in Bogotá, Colombia.
 
 I'm interested in software engineering and in building reliable systems that solve real-world problems. During my studies, I have been developing my skills in software development, algorithms, and system design through academic and personal projects.
 
